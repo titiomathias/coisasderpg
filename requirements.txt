@@ -1,4 +1,5 @@
 random
 PySimpleGUI
 pyperclip
+mysql
 mysql.connector
