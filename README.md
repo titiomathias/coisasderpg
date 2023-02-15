@@ -2,7 +2,7 @@
 Ferramenta para jogadores e mestres de RPG (D&amp;D) com o objetivo de tornar a procura e investigação de itens mágicos e semelhantes mais aleatória e dinâmica.
 
 # Requisitos
-Python 3.X / Todos as bibliotecas requisitas estão em requirements.txt.
+<code>Python 3.X</code> - Todos as bibliotecas requisitas estão em <code>requirements.txt</code>.
 
 # Sobre o programa
 <img src="https://i.imgur.com/tv8YdpD.png"/>
